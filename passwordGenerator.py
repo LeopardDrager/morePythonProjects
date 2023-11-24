@@ -8,10 +8,10 @@ specialCaseAmount = 0
 # used this for acsii values https://www.johndcook.com/blog/2022/05/28/how-to-memorize-the-ascii-table/
 # used this for things I could do with random https://pynative.com/python-random-randrange/
 
-upperCaseInput=int(input(("How many uppercase letters do you want?")))
-lowerCaseInput=int(input(("How many lowercase letters do you want?")))
-numberCaseInput=int(input(("How many numbers do you want?")))
-specialCaseInput=int(input(("How many special characters do you want?")))
+upperCaseInput=int(input(("How many uppercase letters do you want? ")))
+lowerCaseInput=int(input(("How many lowercase letters do you want? ")))
+numberCaseInput=int(input(("How many numbers do you want? ")))
+specialCaseInput=int(input(("How many special characters do you want? ")))
 
 
 final = []
